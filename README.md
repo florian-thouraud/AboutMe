@@ -15,19 +15,20 @@ it's this way 👇<br /><br />
 - State-recognised Bachelor's degree in Data Analyst, taken 100% by distance learning on a full-time basis over a one-year period from 2022 to 2023.<br />
 -  Numerous case studies in SQL, Tableau, Python, Machine Learning, etc. can be seen in my portfolio.
 <br /><br />
-#### 🛠️ Tools I use
+#### 🛠️ Some of the tools I use the most
 
 - Excel, Power Query, Power BI
 - SQL, Microsoft SQL Server Management Studio
 - Python (Pandas, NumPy..)
 - GitHub !
 <br /><br />
-#### 📚 Mes compétences
+#### 📚 My skills
 
 - Extract-Transform-Load: gathering data from multiple sources, transforming it, making it usable.
 - Knowing how to understand the needs of end-users, understanding their challenges in order to present them with appropriate solutions.
 - Perform predictive analysis using machine learning algorithms.
 - Be quickly at ease in new working environments and with new tools.
+- Eager to learn, I always strive to find better ways of solving problems.
 <br /><br />
 #### 🤝 To get in touch, find me on [my Linkedin](https://www.linkedin.com/in/florian-thouraud)
 
