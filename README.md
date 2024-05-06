@@ -2,7 +2,7 @@
 
 I'm Florian, a Data Analyst with a command of SQL, Power BI and Python, among other things.
 <br /><br />
-To start browsing my portfolio, click here 👉 [Portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
+To start browsing my portfolio, click here 👉 [Portfolio](https://github.com/FlorianThd/Portfolio-in-English)
 <br /><br />
 To find out a bit more about me,<br />
 it's this way 👇<br /><br />
@@ -34,6 +34,6 @@ it's this way 👇<br /><br />
 
 <br />
 
-Feel free to browse through my work by clicking on the "Portfolio" link.
+Feel free to have a look at my work : [Portfolio](https://github.com/FlorianThd/Portfolio-in-English).
 <br />
 Thank you for your visit!
