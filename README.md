@@ -1,6 +1,6 @@
 ### 🙋‍♂️ Hello ! A few words to introduce myself
 
-I'm Florian, a Data Analyst with a command of SQL, Power BI and Python, among other things.
+Currently Data Analyst at VPSitex in Paris, France with a command of SQL, Power BI and Python, among other things.
 <br /><br />
 To start browsing my portfolio, click here 👉 [Portfolio](https://github.com/FlorianThd/Portfolio-in-English)
 <br /><br />
